@@ -91,4 +91,4 @@ Qingyang Liu\*, Haonan Zhao\*, Li Niu (\*=Co-first author)
 
 # 🌟 Offline Life
 - 💖 Since 2024.11.23
-- 🎮 Esports enthusiast: League of Legends (Diamond rank) and VALORANT (Immortal rank).
+- 🎮 Esports enthusiast: League of Legends (Diamond) and VALORANT (Ascendant).
