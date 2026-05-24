@@ -82,9 +82,9 @@ Qingyang Liu\*, Haonan Zhao\*, Li Niu (\*=Co-first author)
 </div>
 
 # 🎖 Awards
-- Outstanding Student Scholarship & Outstanding Student Cadre
+- Outstanding Student Scholarship, Outstanding Student Cadre
 
 # 📖 Educations
-- *2024.09 - Present*, Ph.D. in Computer Science, Shanghai Jiao Tong University.
+- *2024.09 - Present*, Ph.D., School of Computer Science, Shanghai Jiao Tong University.
 - *2021.09 - 2024.06*, M.S., School of Mathematical Sciences, University of Chinese Academy of Sciences.
 - *2017.09 - 2021.06*, B.S., School of Science, China University of Mining and Technology (Beijing).
