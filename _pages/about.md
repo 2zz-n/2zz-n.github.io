@@ -82,7 +82,7 @@ Qingyang Liu\*, Haonan Zhao\*, Li Niu (\*=Co-first author)
 </div>
 
 # 🎖 Awards
-- Outstanding Student Scholarship, Outstanding Student Cadre
+- Outstanding Student Scholarship, Outstanding Student Cadre.
 
 # 📖 Educations
 - *2024.09 - Present*, Ph.D., School of Computer Science, Shanghai Jiao Tong University.
@@ -90,5 +90,5 @@ Qingyang Liu\*, Haonan Zhao\*, Li Niu (\*=Co-first author)
 - *2017.09 - 2021.06*, B.S., School of Science, China University of Mining and Technology (Beijing).
 
 # 🌟 Offline Life
-- 💖 Since 2024.11.23
+- 💖 With “Two Sheep” Since 2024.11.23.
 - 🎮 Esports enthusiast: League of Legends (Diamond) and VALORANT (Ascendant).
