@@ -18,7 +18,7 @@ redirect_from:
 # 🤔 About Me
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student at the School of Computer Science, Shanghai Jiao Tong University, advised by Prof. [Li Niu](https://www.ustcnewly.com/). My primary research interests are AIGC and MLLM. Besides academic research, I enjoy fitness and playing badminton.
+I am currently a second-year Ph.D. student at the School of Computer Science, Shanghai Jiao Tong University, advised by Prof. [Li Niu](https://www.ustcnewly.com/). My primary research interests are AIGC and MLLM. Besides academic research, I enjoy working out and playing badminton.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Our paper [RGDiffusion](https://github.com/bcmi/Object-Reflection-Generation-Dataset-DEROBA) is accepted by ICME 2026!
