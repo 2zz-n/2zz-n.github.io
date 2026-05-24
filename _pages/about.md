@@ -33,7 +33,6 @@ I am currently a second-year Ph.D. student at the School of Computer Science, Sh
 
 Haonan Zhao, Qingyang Liu, Xinhao Tao, Li Niu, Guangtao Zhai
 
-- We enhance diffusion-based shadow generation by incorporating geometric priors to improve realism. We first predict a rotated bounding box and matched shadow shapes for the foreground object, then inject this geometric guidance into ControlNet for more plausible shadow synthesis.
 </div>
 </div>
 
