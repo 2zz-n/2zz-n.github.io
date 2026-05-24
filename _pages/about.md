@@ -89,6 +89,6 @@ Qingyang Liu\*, Haonan Zhao\*, Li Niu (\*=Co-first author)
 - *2021.09 - 2024.06*, M.S., School of Mathematical Sciences, University of Chinese Academy of Sciences.
 - *2017.09 - 2021.06*, B.S., School of Science, China University of Mining and Technology (Beijing).
 
-# 🌟 Offline Mode (*Life*) {#offline-mode}
+# 🌟 Offline Life
 - 💖 Since 2024.11.23
 - 🎮 Esports enthusiast: League of Legends (Diamond rank) and VALORANT (Immortal rank).
