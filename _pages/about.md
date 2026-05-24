@@ -26,7 +26,7 @@ I am currently a second-year Ph.D. student at the School of Computer Science, Sh
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/shadow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Accepted</div><img src='images/shadow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Shadow Generation Using Diffusion Model with Geometry Prior](https://github.com/bcmi/GPSDiffusion-Object-Shadow-Generation)
@@ -37,7 +37,7 @@ Haonan Zhao, Qingyang Liu, Xinhao Tao, Li Niu, Guangtao Zhai
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/reflection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026 Accepted</div><img src='images/reflection.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reflection Generation for Composite Image Using Diffusion Model](https://github.com/bcmi/Object-Reflection-Generation-Dataset-DEROBA)
@@ -48,7 +48,7 @@ Haonan Zhao, Qingyang Liu, Jiaxuan Chen, Li Niu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/timo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Submitted</div><img src='images/timo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Timo: Temporal Interval Modeling for Subject-Driven Video Generation
@@ -59,7 +59,7 @@ Haonan Zhao, Jiaxuan Chen, Bingjie Gao, Haoran Jiang, Qingyang Liu, Shuochen Cha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMAsia 2025</div><img src='images/dual-space.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMAsia 2025 Accepted</div><img src='images/dual-space.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-space Adaptive Fusion for Self-supervised Text-guided Image Editing](https://dl.acm.org/doi/full/10.1145/3743093.3770946)
@@ -70,7 +70,7 @@ Qingyang Liu\*, Haonan Zhao\*, Li Niu (\*=Co-first author)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='images/latent-basis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025 Accepted</div><img src='images/latent-basis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to Combine Latent Basis for Diffusion-Based Image Attribute Editing](https://link.springer.com/chapter/10.1007/978-981-95-5740-0_37)
